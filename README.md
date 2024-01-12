@@ -14,12 +14,15 @@ The first deliverable involves scraping titles and preview text from the Mars Ne
 The second deliverable focuses on scraping and analyzing Mars weather data from a specified site. This includes creating a Beautiful Soup object to extract data from an HTML table, assembling it into a Pandas DataFrame, and performing various analyses, such as determining:
 
 ##### The number of months on Mars
-![Alt Text](https://github.com/peatk/Group3_Project_-1/blob/main/graphs/Heatmap.png)
+![Alt Text](https://github.com/peatk/Web-Scraping---HTML/blob/main/Starter_Code_v1.2.2/Starter_Code/month_temp.png)
 
 ##### Finding the coldest and warmest months
+![Alt Text](https://github.com/peatk/Web-Scraping---HTML/blob/main/Starter_Code_v1.2.2/Starter_Code/month_temp.png)
 
 ##### Identifying months with the lowest and highest atmospheric pressure
+![Alt Text](https://github.com/peatk/Web-Scraping---HTML/blob/main/Starter_Code_v1.2.2/Starter_Code/month_temp.png)
 
 ##### Estimating terrestrial days in a Martian year
+![Alt Text](https://github.com/peatk/Web-Scraping---HTML/blob/main/Starter_Code_v1.2.2/Starter_Code/month_temp.png)
 
 The final step is to export the DataFrame to a CSV file, providing a comprehensive and organized dataset for further use.
