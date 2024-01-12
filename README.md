@@ -21,4 +21,4 @@ The second deliverable focuses on scraping and analyzing Mars weather data from 
 
 ##### Estimating terrestrial days in a Martian year
 
-The final step is to export the DataFrame to a CSV file, providing a comprehensive and organized dataset for further use. Through these tasks, you will apply and enhance your web-scraping and data analysis skills.
+The final step is to export the DataFrame to a CSV file, providing a comprehensive and organized dataset for further use.
